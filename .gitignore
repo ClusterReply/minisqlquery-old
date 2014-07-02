@@ -11,6 +11,7 @@
 /trunk/Contrib/MiniSqlQuery.Exports.Plugin/obj/*
 /trunk/MiniSqlQuery.Tests/bin/Debug
 /trunk/MiniSqlQuery.Tests/obj/Debug
+/trunk/packages/*
 *.cache
 *.suo
 *.user
