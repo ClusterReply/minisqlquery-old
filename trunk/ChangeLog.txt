@@ -66,3 +66,5 @@ The final beta version.
 Previous Versions (pre May 2008)
 --------------------------------
 Mini SQL Query changes prior to being open source not formerly tracked.
+
+
